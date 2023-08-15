@@ -1,0 +1,13 @@
+.gif-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 20rem;
+    height: 20rem;
+}
+
+.category-img {
+    border-radius: 1rem;
+    max-height: 18rem;
+}

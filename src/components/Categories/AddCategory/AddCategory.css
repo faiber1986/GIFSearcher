@@ -1,0 +1,12 @@
+.form-search {
+    display: flex;
+    justify-content: center;
+}
+
+.input-search {
+    display: block;
+    justify-content: center;
+    margin: 1rem 1rem 1rem 1rem;
+    width: 80%;
+    height: 2rem;
+}
